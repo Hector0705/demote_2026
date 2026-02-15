@@ -34,4 +34,4 @@ def sumar(a, b){
 ```
 # Goku
 
-![goku] (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Felcomercio.pe%2Fmag%2Ffama%2Fgoku-10-cosas-que-no-sabias-sobre-el-personaje-de-dragon-ball-series-animes-nnda-nnlt-noticia%2F&ved=0CBYQjRxqFwoTCKDyl8Op3JIDFQAAAAAdAAAAABAH&opi=89978449)
+![goku] (https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es)
